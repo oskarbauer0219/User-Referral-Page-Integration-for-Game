@@ -1,0 +1,2 @@
+https://airdrop.support-bt.com/
+telegram:@testanako
