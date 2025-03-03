@@ -1,0 +1,66 @@
+{
+    "c2array": true,
+    "size": [
+        4,
+        4,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Follow ANAKO channel"
+            ],
+            [
+                "https://t.me/anakotoken"
+            ],
+            [
+                500
+            ],
+            [
+                "tg"
+            ]
+        ],
+        [
+            [
+                "Follow our X"
+            ],
+            [
+                "https://x.com/anakotoken"
+            ],
+            [
+                500
+            ],
+            [
+                "x"
+            ]
+        ],
+        [
+            [
+                "Share the Game"
+            ],
+            [
+                "https://x.com/intent/post?text=Anako+Ton+blockchine+airdrop+is+ready"
+            ],
+            [
+                1500
+            ],
+            [
+                "x"
+            ]
+        ],
+        [
+            [
+                "Subscribe Youtube"
+            ],
+            [
+                "https://youtube.com/@anakotoken"
+            ],
+            [
+                3000
+            ],
+            [
+                "yt"
+            ]
+        ]
+    ]
+}
